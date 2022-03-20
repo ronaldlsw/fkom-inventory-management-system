@@ -1,0 +1,38 @@
+.center
+{
+    text-align: center;
+}
+
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
+}
+
+.inline
+{
+    display: inline-block;
+}
+
+table, th
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align:center;
+}
+
+input
+{
+    height:30px;
+    border:1px solid black;
+}
+
+.hr
+{
+    border-color: black;
+}
+
